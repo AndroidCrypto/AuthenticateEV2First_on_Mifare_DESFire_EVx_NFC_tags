@@ -60,3 +60,20 @@ Rev. 1.4 — 24 July 2023
 
 Application note: https://www.nxp.com/docs/en/application-note/AN12752.pdf
 
+## Online Tools
+
+### AES Encryption
+AES Encryption/Decryption tool
+
+https://www.toolhelper.cn/en/SymmetricEncryption/AES
+
+### CMAC Calculation Online
+
+CMAC Calculate Online
+
+https://www.lddgo.net/en/encrypt/cmac-calculate
+
+
+
+
+
