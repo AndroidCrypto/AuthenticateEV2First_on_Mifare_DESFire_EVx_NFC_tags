@@ -1,6 +1,6 @@
 # AuthenticateEV2First on Mifare DESFire EVx NFC tags
 
-This repository does not contain any software, but the documents that are named in the complementary tutorial "Run 'AuthenticateEV2First' on a Mifare DESFire EV2/EV3 NFC tag in detail", are available here:
+This repository does not contain any software, but the documents that are named in the complementary tutorial "**Run 'AuthenticateEV2First' on a Mifare DESFire EV2/EV3 NFC tag in detail**", are available here: https://medium.com/@androidcrypto/mifare-desfire-ev3-run-authenticateev2first-on-a-mifare-desfire-ev2-ev3-nfc-tag-in-detail-00e698fd3e0a
 
 In case an original document is (no longer) available online you can find all documents in the **'documents' folder**.
 
