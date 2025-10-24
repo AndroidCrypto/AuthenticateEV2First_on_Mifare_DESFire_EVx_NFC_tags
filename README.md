@@ -1,8 +1,8 @@
 # AuthenticateEV2First on Mifare DESFire EVx NFC tags
 
-This repository does not contain ans software, but the documents that are named in the complementary tutorial "Run 'AuthenticateEV2First' on a Mifare DESFire EV2/EV3 NFC tag in detail", available here:
+This repository does not contain any software, but the documents that are named in the complementary tutorial "Run 'AuthenticateEV2First' on a Mifare DESFire EV2/EV3 NFC tag in detail", are available here:
 
-Please find all documents in the documents folder.
+In case an original document is (no longer) available online you can find all documents in the **'documents' folder**.
 
 ## NTAG424DNA documents
 
@@ -72,8 +72,3 @@ https://www.toolhelper.cn/en/SymmetricEncryption/AES
 CMAC Calculate Online
 
 https://www.lddgo.net/en/encrypt/cmac-calculate
-
-
-
-
-
